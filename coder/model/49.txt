@@ -1,0 +1,3 @@
+    NSMutableData *var1 = [[NSMutableData alloc] init];
+    [var1 increaseLengthBy:0];
+    

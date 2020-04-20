@@ -1,0 +1,3 @@
+	NSCalendar *var1 = [NSCalendar autoupdatingCurrentCalendar];
+    [var1 ordinalityOfUnit:NSCalendarUnitWeekday inUnit:NSCalendarUnitYear forDate:[NSDate date]];
+    

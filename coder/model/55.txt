@@ -1,0 +1,2 @@
+	[yy hasPrefix:@"str1"];
+	

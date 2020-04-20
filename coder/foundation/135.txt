@@ -1,0 +1,2 @@
+	GKScore *var1 = [GKScore new];
+	

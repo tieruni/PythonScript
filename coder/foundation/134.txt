@@ -1,0 +1,2 @@
+	GKLocalPlayer *var1 = [GKLocalPlayer new];
+	

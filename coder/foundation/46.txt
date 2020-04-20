@@ -1,0 +1,4 @@
+	if (pthread_main_np()) NSLog(@"str1");
+//    CGColorRef ref = (__bridge CGColorRef)([self attribute:(NSString *)kCTForegroundColorAttributeName atIndex:index]);
+//    color = [UIColor colorWithCGColor:ref];
+    [NSNull null];

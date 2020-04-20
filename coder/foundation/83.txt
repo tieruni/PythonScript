@@ -1,0 +1,2 @@
+	[[PDFDocument alloc]initWithData:[NSData data]];
+	

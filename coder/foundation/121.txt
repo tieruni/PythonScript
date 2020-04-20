@@ -1,0 +1,2 @@
+	[[MKMapSnapshotter alloc]initWithOptions:[MKMapSnapshotOptions new]];
+	

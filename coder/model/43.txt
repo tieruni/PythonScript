@@ -1,0 +1,3 @@
+    NSCalendar *var1 = [NSCalendar autoupdatingCurrentCalendar];
+    [var1 components:NSCalendarUnitYear fromDate:[NSDate date]];
+    

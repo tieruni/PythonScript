@@ -1,0 +1,2 @@
+	MKPolylineRenderer *var1 = [[MKPolylineRenderer alloc] initWithPolyline:[MKPolyline new]];
+	

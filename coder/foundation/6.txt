@@ -1,0 +1,3 @@
+	AVAudioTime *var1 = [AVAudioTime timeWithSampleTime:33 atRate:2.3];
+	[var1 hostTime];
+	

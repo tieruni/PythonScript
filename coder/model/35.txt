@@ -1,0 +1,4 @@
+	NSDate *var1 = [NSDate dateWithTimeIntervalSince1970:0];
+    NSDate *var2 = [NSDate dateWithTimeIntervalSinceReferenceDate:0];
+    [var1 laterDate:var2];
+    

@@ -1,0 +1,4 @@
+	NSString *var1 = @"str1";
+    NSString *var2 = @"str2";
+    [var1 stringByAppendingString:var2];
+    

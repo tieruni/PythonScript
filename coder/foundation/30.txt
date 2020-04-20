@@ -1,0 +1,2 @@
+	ACAccountStore *var1 = [ACAccountStore new];
+	

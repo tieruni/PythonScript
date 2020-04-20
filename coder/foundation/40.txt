@@ -1,0 +1,16 @@
+	CGRect var1 =CGRectMake(0, 0, 100, 100);
+	NSMutableData *var2 = [NSMutableData data];
+	CGDataConsumerRef consumer = CGDataConsumerCreateWithCFData((__bridge CFMutableDataRef)var2);
+	CGContextRef var3 = CGPDFContextCreate(consumer, &var1, NULL);
+	CGDataConsumerRelease(consumer);
+	if (var3)
+	{
+		CGPDFContextBeginPage(var3, NULL);
+		CGContextTranslateCTM(var3, 0, var1.size.height);
+		CGContextScaleCTM(var3, 1.0, -1.0);
+		CGPDFContextEndPage(var3);
+		CGPDFContextClose(var3);
+		CGContextRelease(var3);
+	}
+	
+	

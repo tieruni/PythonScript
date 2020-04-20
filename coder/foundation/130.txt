@@ -1,0 +1,2 @@
+	MKShape *var1 = [MKShape new];
+    var1.title = @"str1";

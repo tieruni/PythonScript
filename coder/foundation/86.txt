@@ -1,0 +1,2 @@
+	PDFSelection *var1 = [[PDFSelection alloc]initWithDocument:[PDFDocument new]];
+	

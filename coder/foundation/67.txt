@@ -1,0 +1,4 @@
+	MSConversation * var1 = [[MSConversation alloc]init];
+	MSMessagesAppViewController * var2 = [[MSMessagesAppViewController alloc]init];
+    [var2 willBecomeActiveWithConversation:var1];
+    

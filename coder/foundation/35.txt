@@ -1,0 +1,2 @@
+	NSURLResponse *var1 = [[NSURLResponse alloc]init];
+	

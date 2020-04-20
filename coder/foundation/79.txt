@@ -1,0 +1,2 @@
+	[[PDFAnnotation alloc]initWithBounds:CGRectMake(0, 0, 100, 100) forType:@"str1" withProperties:@{}];
+	

@@ -1,0 +1,3 @@
+	NSNumberFormatter *var1 = [[NSNumberFormatter alloc] init];
+    [var1 setNumberStyle:NSNumberFormatterDecimalStyle];
+    

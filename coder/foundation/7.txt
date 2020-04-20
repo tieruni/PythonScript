@@ -1,0 +1,3 @@
+	AVPlayerStatus var1 = AVPlayerStatusReadyToPlay;
+	var1 = AVPlayerStatusUnknown;
+	

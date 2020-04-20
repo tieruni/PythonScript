@@ -1,0 +1,4 @@
+	NSDate *var1 = [NSDate date];
+    NSDate *var2 = [NSDate dateWithTimeIntervalSinceNow:0];
+    [var1 isEqualToDate:var2];
+    

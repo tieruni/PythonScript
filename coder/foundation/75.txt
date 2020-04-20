@@ -1,0 +1,2 @@
+	[[PDFActionGoTo alloc]initWithDestination:[[PDFDestination alloc]initWithPage:[[PDFPage alloc]init] atPoint:CGPointMake(0, 0)]];
+	

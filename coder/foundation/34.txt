@@ -1,0 +1,8 @@
+	NSURLSessionConfiguration *var1 = [NSURLSessionConfiguration defaultSessionConfiguration];
+
+	var1.HTTPShouldSetCookies = YES;
+	var1.HTTPShouldUsePipelining = NO;
+	var1.requestCachePolicy = NSURLRequestUseProtocolCachePolicy;
+	var1.allowsCellularAccess = YES;
+	var1.timeoutIntervalForRequest = 60.0;
+	

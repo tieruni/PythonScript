@@ -1,0 +1,2 @@
+    [yy compare:@"str1"];
+    

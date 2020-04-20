@@ -1,0 +1,3 @@
+	MKUserLocation *var1 = [MKUserLocation new];
+    var1.title = @"fdsfsa";
+    

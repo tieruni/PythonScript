@@ -1,0 +1,3 @@
+	NSArray * var1= [[NSArray alloc]initWithObjects:@"str1",@"str2",@"str3", nil];
+    [var1 firstObject];
+    

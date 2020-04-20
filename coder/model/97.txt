@@ -1,0 +1,3 @@
+	NSSet * var1 = [[NSSet alloc]initWithObjects:yy, nil];
+    [var1 description];
+    

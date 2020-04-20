@@ -1,0 +1,1 @@
+	MKDirectionsResponse *var1 = [MKDirectionsResponse new];

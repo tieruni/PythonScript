@@ -1,0 +1,3 @@
+	NSMutableString *var1 = [[NSMutableString alloc]initWithString:@"str1"];
+    [var1 insertString:@"str2" atIndex:(arc4random() % 4)];
+    

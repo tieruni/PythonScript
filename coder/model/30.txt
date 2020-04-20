@@ -1,0 +1,4 @@
+	NSDictionary *var1=[NSDictionary dictionaryWithObjectsAndKeys:@"str1",@"str2",@"str3",@"str4",nil];
+    NSMutableDictionary *var2;
+    [var2 setDictionary:var1];
+    

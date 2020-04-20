@@ -1,0 +1,3 @@
+	NSMutableParagraphStyle *var1 = [NSMutableParagraphStyle new];
+    var1.lineBreakMode = NSLineBreakByWordWrapping;
+    

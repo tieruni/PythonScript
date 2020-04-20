@@ -1,0 +1,10 @@
+	CFStringEncoding var1 = CFStringConvertNSStringEncodingToEncoding(NSUTF8StringEncoding);
+    NSString *var2 = [@"str1" stringByReplacingOccurrencesOfString:@"+"
+                                                        withString:@" "];
+    var2 = (__bridge_transfer NSString *)
+    CFURLCreateStringByReplacingPercentEscapesUsingEncoding(
+                                                            NULL,
+                                                            (__bridge CFStringRef)var2,
+                                                            CFSTR(""),
+                                                            var1);
+                                                            

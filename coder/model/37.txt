@@ -1,0 +1,3 @@
+    NSDate *var1 = [NSDate dateWithTimeIntervalSince1970:0];
+    [var1 timeIntervalSince1970];
+    

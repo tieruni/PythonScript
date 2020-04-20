@@ -1,0 +1,3 @@
+	NSDateFormatter * var1 = [[NSDateFormatter alloc] init];
+    [var1 stringFromDate:[NSDate date]];
+    

@@ -1,0 +1,1 @@
+	ACAccountType *var1 = [ACAccountType new];

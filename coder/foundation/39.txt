@@ -1,0 +1,2 @@
+	NSDictionary *var1 = CFBridgingRelease(CFNetworkCopySystemProxySettings());
+	

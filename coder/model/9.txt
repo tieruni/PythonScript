@@ -1,0 +1,3 @@
+	NSString *var1 = @"str1";
+    NSArray *var2 = [var1 componentsSeparatedByString:@"brwnagrabcdefghijklmnopqVNUIRSAFOIQstr3rstuvwxyz"];
+    [var2 componentsJoinedByString:@"str2"];

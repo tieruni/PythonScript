@@ -1,0 +1,3 @@
+	NSSet * var1 = [NSSet setWithObject:yy];
+    [var1 allObjects];
+    

@@ -1,0 +1,4 @@
+	NSNumber *var1 = [[NSNumber alloc] initWithInt:(arc4random() % 4)];
+    NSNumber *var2 = [[NSNumber alloc] initWithInt:(arc4random() % 4)];
+    NSArray *var3 = @[var1, var2];
+    

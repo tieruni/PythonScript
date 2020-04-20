@@ -1,0 +1,3 @@
+	NSString *var1 = [NSString stringWithFormat:@"str1", [[NSUUID UUID] UUIDString]];
+	dispatch_queue_create([var1 cStringUsingEncoding:NSASCIIStringEncoding], DISPATCH_QUEUE_CONCURRENT);
+	

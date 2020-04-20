@@ -1,0 +1,2 @@
+	NSMutableArray * var1 = [NSMutableArray array];
+    [var1 removeLastObject];

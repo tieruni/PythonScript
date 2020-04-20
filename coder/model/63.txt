@@ -1,0 +1,2 @@
+	[yy writeToURL:[NSURL URLWithString:@""] atomically:YES encoding:NSASCIIStringEncoding error:nil];
+	

@@ -1,0 +1,4 @@
+	NSString *var1 = @"str1";
+    NSRange var2 = [var1 rangeOfString:@"str1"];
+    [var1 substringWithRange:var2];
+    

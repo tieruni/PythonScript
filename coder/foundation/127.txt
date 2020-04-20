@@ -1,0 +1,3 @@
+	MKPolygonRenderer *var1 = [[MKPolygonRenderer alloc]initWithPolygon:[[MKPolygon alloc]init]];
+    NSLog(@"%@",var1);
+    

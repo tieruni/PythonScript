@@ -1,0 +1,1 @@
+	MSMessageErrorCode var1 = MSMessageErrorCodeFileNotFound;

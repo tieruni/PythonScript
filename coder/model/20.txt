@@ -1,0 +1,3 @@
+	NSMutableString *var1 = [[NSMutableString alloc]initWithString:@"str1"];
+    [var1 replaceCharactersInRange:NSMakeRange(1,1) withString:@"5"];
+    

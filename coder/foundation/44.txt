@@ -1,0 +1,7 @@
+	static NSCharacterSet *var1;
+	static dispatch_once_t var2;
+	dispatch_once(&var2, ^{
+		var1 = [NSCharacterSet characterSetWithRange:NSMakeRange('.', 1)];
+	});
+	
+	NSMutableDictionary *var3 = [NSPropertyListSerialization propertyListWithData:[NSData data] options:NSPropertyListMutableContainersAndLeaves format:NULL error:NULL];

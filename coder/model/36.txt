@@ -1,0 +1,3 @@
+	NSDate *var1 = [NSDate dateWithTimeIntervalSinceReferenceDate:0];
+    [var1 timeIntervalSinceNow];
+    

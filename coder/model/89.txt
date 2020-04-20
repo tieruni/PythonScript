@@ -1,0 +1,3 @@
+	[NSBundle bundleWithPath:yy];
+    [NSBundle mainBundle];
+    

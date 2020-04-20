@@ -1,0 +1,1 @@
+	NSStringEncoding var1 = NSUTF8StringEncoding;

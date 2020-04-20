@@ -1,0 +1,2 @@
+	MKMultiPoint *var1 = [[MKMultiPoint alloc]init];
+    [var1 points];

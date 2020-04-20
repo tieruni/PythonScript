@@ -1,0 +1,4 @@
+	NSDateFormatter *var1 = [NSDateFormatter new];
+	var1.timeZone = [NSTimeZone timeZoneWithName:@"str1"];
+	var1.locale = [NSLocale localeWithLocaleIdentifier:@"str2"];
+	

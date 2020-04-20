@@ -1,0 +1,3 @@
+	AVPlayerLayer *var1 = [AVPlayerLayer new];
+	var1.videoGravity = @"str1";
+	

@@ -1,0 +1,2 @@
+	[[PDFActionRemoteGoTo alloc]initWithPageIndex:2 atPoint:CGPointMake(0, 0) fileURL:[NSURL URLWithString:@"str1"]];
+	

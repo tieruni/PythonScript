@@ -1,0 +1,2 @@
+	MSSession * var1 = [[MSSession alloc]init];
+    MSMessage * var2 = [[MSMessage alloc]initWithSession:var1];

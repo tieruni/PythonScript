@@ -1,0 +1,5 @@
+	AVPlayer *var1 = [AVPlayer playerWithURL:[NSURL URLWithString:@"str1"]];
+	[var1 play];
+	[var1 status];
+	[var1 pause];
+	

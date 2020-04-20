@@ -1,0 +1,4 @@
+	NSMutableArray *var1 = [NSMutableArray arrayWithObjects:@"str1",@"str2", nil];
+    [var1 addObjectsFromArray:@[@"str3", @"str4"]];
+    [var1 removeObjectAtIndex:0];
+    

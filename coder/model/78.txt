@@ -1,0 +1,3 @@
+    NSMutableData * var1 = [[NSMutableData alloc]initWithData:[[NSData alloc]initWithContentsOfURL:[NSURL URLWithString:yy]]];
+    [var1 mutableBytes];
+    

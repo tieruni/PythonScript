@@ -1,0 +1,5 @@
+	MKTileOverlay *var2 = [[MKTileOverlay alloc]initWithURLTemplate:@"str1"];
+    var2.tileSize = CGSizeZero;
+    MKTileOverlayRenderer *var1 = [[MKTileOverlayRenderer alloc]initWithTileOverlay:var2];
+    [var1 reloadData];
+    

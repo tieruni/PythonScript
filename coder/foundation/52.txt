@@ -1,0 +1,2 @@
+	NSRegularExpression *var1 = [NSRegularExpression regularExpressionWithPattern:@"" options:NSRegularExpressionAllowCommentsAndWhitespace error:NULL];
+	

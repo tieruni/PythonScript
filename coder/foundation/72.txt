@@ -1,0 +1,2 @@
+	MSStickerBrowserViewController * var1 = [[MSStickerBrowserViewController alloc]initWithStickerSize:MSStickerSizeRegular];
+	

@@ -1,0 +1,2 @@
+	NSCalendar *var1 = [NSCalendar currentCalendar];
+    [var1 minimumRangeOfUnit:NSCalendarUnitWeekday];

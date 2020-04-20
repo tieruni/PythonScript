@@ -1,0 +1,2 @@
+	[NSJSONSerialization isValidJSONObject:@{@"str1":@"str2"}];
+	

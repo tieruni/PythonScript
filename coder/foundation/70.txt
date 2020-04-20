@@ -1,0 +1,2 @@
+	NSURL * var1 = [NSURL URLWithString:@""];
+    MSSticker *var2 = [[MSSticker alloc]initWithContentsOfFileURL:var1 localizedDescription:@"str1" error:nil];

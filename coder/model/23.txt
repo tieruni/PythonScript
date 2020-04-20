@@ -1,0 +1,2 @@
+	NSFileManager *var1 = [NSFileManager defaultManager];
+    [var1 currentDirectoryPath];

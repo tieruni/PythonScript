@@ -1,0 +1,2 @@
+	NSDecimalNumber *var1 = [NSDecimalNumber decimalNumberWithString:@"str1"];
+    NSDecimal var2 = var1.decimalValue;

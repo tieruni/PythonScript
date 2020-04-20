@@ -1,0 +1,5 @@
+	NSDate *var1 = [NSDate date];
+    NSDateFormatter *var2 = [[NSDateFormatter alloc]init];
+    var2.dateFormat = @"yyyy-MM-dd HH:mm:ss";
+    [var2 stringFromDate:var1];
+    

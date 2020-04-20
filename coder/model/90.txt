@@ -1,0 +1,3 @@
+	NSBundle * var1 = [[NSBundle alloc]initWithPath:yy];
+    [var1 builtInPlugInsPath];
+    

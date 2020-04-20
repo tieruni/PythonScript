@@ -1,0 +1,3 @@
+	MKOverlayRenderer *var1 = [[MKOverlayRenderer alloc]init];
+    var1.alpha = 0.3;
+    

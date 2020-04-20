@@ -1,0 +1,3 @@
+	MSMessageTemplateLayout * var1 = [[MSMessageTemplateLayout alloc]init];
+    MSMessageLiveLayout * var2 = [[MSMessageLiveLayout alloc]initWithAlternateLayout:var1];
+    

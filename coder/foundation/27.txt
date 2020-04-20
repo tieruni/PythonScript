@@ -1,0 +1,2 @@
+	[AVPictureInPictureController isPictureInPictureSupported];
+	AVPlayerViewController *var1 = [AVPlayerViewController new];

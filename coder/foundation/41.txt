@@ -1,0 +1,4 @@
+	NSError *var1 = nil;
+	NSData *var2 = [NSJSONSerialization dataWithJSONObject:@{@"str1":@"str2"} options:NSJSONWritingPrettyPrinted error:&var1];
+	NSString *var3 = [[NSString alloc] initWithData:var2 encoding:NSUTF8StringEncoding];
+	

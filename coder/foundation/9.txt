@@ -1,0 +1,3 @@
+	AVAudioEngine * var1 = [[AVAudioEngine alloc] init ];
+	[var1 pause];
+	

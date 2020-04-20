@@ -1,0 +1,2 @@
+	NSURL* var1 = [[NSURL alloc] initWithString:@"str1"];
+	

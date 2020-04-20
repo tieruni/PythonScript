@@ -1,0 +1,2 @@
+	MKPlacemark *var1 = [[MKPlacemark alloc]initWithCoordinate:kCLLocationCoordinate2DInvalid];
+    NSLog(@"%@",var1);

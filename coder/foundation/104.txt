@@ -1,0 +1,2 @@
+	[[MKCircleRenderer alloc]initWithCircle:[MKCircle circleWithMapRect:MKMapRectMake(0, 0, 100, 100)]];
+	

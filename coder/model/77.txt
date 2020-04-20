@@ -1,0 +1,3 @@
+    NSData * var1 = [[NSData alloc]initWithContentsOfURL:[NSURL URLWithString:yy]];
+    [var1 isEqualToData:[[NSData alloc]initWithContentsOfURL:[NSURL URLWithString:@"str1"]]];
+    

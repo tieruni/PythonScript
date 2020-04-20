@@ -1,0 +1,5 @@
+	AVAudioPlayer *var1 = [[AVAudioPlayer alloc]initWithData:[NSData data] error:nil];
+	[var1 play];
+	[var1 stop];
+	[var1 prepareToPlay];
+	

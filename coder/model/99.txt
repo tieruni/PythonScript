@@ -1,0 +1,3 @@
+	NSMutableSet * var1 = [NSMutableSet setWithObject:yy];
+    [var1 addObject:@"str1"];
+    
